@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: fecce06f8474e4854b36672fb2087273
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: R_armUpper
+    100004: body
+    100006: R_foot
+    100008: R_legCalf
+    100010: head
+    100012: L_foot
+    100014: L_legCalf
+    100016: R_legThigh
+    100018: L_hand
+    100020: L_arm2
+    100022: L_legThigh
+    100024: L_arm
+    100026: R_hand
+    100028: R_armLower
+    100030: L_hand1
+    400000: //RootNode
+    400002: R_armUpper
+    400004: body
+    400006: R_foot
+    400008: R_legCalf
+    400010: head
+    400012: L_foot
+    400014: L_legCalf
+    400016: R_legThigh
+    400018: L_hand
+    400020: L_arm2
+    400022: L_legThigh
+    400024: L_arm
+    400026: R_hand
+    400028: R_armLower
+    400030: L_hand1
+    2300000: R_armUpper
+    2300002: body
+    2300004: R_foot
+    2300006: R_legCalf
+    2300008: head
+    2300010: L_foot
+    2300012: L_legCalf
+    2300014: R_legThigh
+    2300016: L_hand
+    2300018: L_arm2
+    2300020: L_legThigh
+    2300022: L_arm
+    2300024: R_hand
+    2300026: R_armLower
+    2300028: L_hand1
+    3300000: R_armUpper
+    3300002: body
+    3300004: R_foot
+    3300006: R_legCalf
+    3300008: head
+    3300010: L_foot
+    3300012: L_legCalf
+    3300014: R_legThigh
+    3300016: L_hand
+    3300018: L_arm2
+    3300020: L_legThigh
+    3300022: L_arm
+    3300024: R_hand
+    3300026: R_armLower
+    3300028: L_hand1
+    4300000: body
+    4300002: R_armUpper
+    4300004: R_armLower
+    4300006: R_hand
+    4300008: L_hand1
+    4300010: L_arm
+    4300012: L_arm2
+    4300014: L_hand
+    4300016: L_legThigh
+    4300018: L_legCalf
+    4300020: L_foot
+    4300022: R_legThigh
+    4300024: R_legCalf
+    4300026: R_foot
+    4300028: head
+    6400000: body
+    6400002: head
+    6400004: L_arm
+    6400006: L_arm2
+    6400008: L_hand
+    6400010: L_legThigh
+    6400012: L_legCalf
+    6400014: L_foot
+    6400016: R_armUpper
+    6400018: L_hand1
+    6400020: R_armLower
+    6400022: R_hand
+    6400024: R_legThigh
+    6400026: R_legCalf
+    6400028: R_foot
+    7400000: Take 001
+    7400002: idle
+    7400004: idle0
+    7400006: walk
+    7400008: death
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: 
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: 
+      firstFrame: 16
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
